@@ -1,4 +1,4 @@
-Description:
+
 This Streamlit application leverages Langchain, Groq, and FAISS to create an interactive Q&A system based on document embeddings. Users can input questions and receive accurate responses extracted from a set of documents. The application includes the following key features:
 
 Environment Setup: Load API keys from environment variables using dotenv.
